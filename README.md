@@ -41,7 +41,7 @@ I am passionate about building scalable cloud applications and deploying project
 
 ## Featured Projects
 
-1. Netflix Clone
+## 1. Netflix Clone
 
 ## Features
 - Responsive Netflix UI
@@ -56,7 +56,7 @@ https://somesh-11.github.io/netflix-clone/
 🔗 Repository:
 https://github.com/somesh-11/netflix-clone
 
-2. AWS-Static-Website-Deployment-using-VPC-EC2-Auto-Scaling-Group
+## 2. AWS-Static-Website-Deployment-using-VPC-EC2-Auto-Scaling-Group
 
 ## Key Highlights
 
