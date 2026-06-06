@@ -12,30 +12,38 @@ About Me
 - Working on CI/CD Pipelines
 - Deploying projects using EC2 & GitHub Actions
 
-Tech Stack
+## Tech Stack
 
-Cloud & DevOps
+## Cloud & DevOps
 
 - AWS EC2
 - AWS S3
+- AWS RDS
 - IAM
+- AWS ALB
+- Cloud watch
+- Route53
+- AWS Elastic IP
+- AWS VPC
+- Scurity group
+- AWS Auto scaling groups
 - GitHub Actions
 - CI/CD
 - Linux
 - Nginx
 - Git & GitHub
 
-Frontend
+## Frontend
 
 - HTML
 - CSS
 - JavaScript
 
-Featured Projects
+## Featured Projects
 
 Netflix Clone
 
-Features
+## Features
 - Responsive Netflix UI
 - Dynamic Movie Search
 - Interactive Design
@@ -48,7 +56,7 @@ https://somesh-11.github.io/netflix-clone/
 🔗 Repository:
 https://github.com/somesh-11/netflix-clone
 
-Currently Learning
+## Currently Learning
 
 - Docker
 - Kubernetes
@@ -56,13 +64,13 @@ Currently Learning
 - AWS Lambda
 - Jenkins
 
-Connect With Me
+## Connect With Me
 
 - GitHub:
 https://github.com/somesh-11
 
--Gmail:
+- Gmail:
 gsomesh686@gmail.com
 
-Fun Fact
+## Fun Fact
 I enjoy deploying applications more than building them 
