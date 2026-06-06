@@ -1,10 +1,10 @@
-Hi, I'm Somesh
+## Hi, I'm Somesh
 
-AWS & DevOps Enthusiast
+## AWS & DevOps Enthusiast
 
 I am passionate about building scalable cloud applications and deploying projects using AWS services and CI/CD pipelines.
 
-About Me
+## About Me
 
 - Learning and building with AWS Cloud
 - Interested in DevOps & Automation
@@ -41,7 +41,7 @@ About Me
 
 ## Featured Projects
 
-Netflix Clone
+1. Netflix Clone
 
 ## Features
 - Responsive Netflix UI
@@ -55,6 +55,22 @@ https://somesh-11.github.io/netflix-clone/
 
 🔗 Repository:
 https://github.com/somesh-11/netflix-clone
+
+2. AWS-Static-Website-Deployment-using-VPC-EC2-Auto-Scaling-Group
+
+## Key Highlights
+
+- Custom Networking with AWS VPC
+- EC2-based Static Website Hosting
+- Auto Scaling Group Configuration
+- Launch Template Implementation
+- Security Group Management
+- Automated Server Configuration
+- AWS Free Tier Compatible
+- Infrastructure Documentation with Screenshots
+
+🔗 Repository:
+https://github.com/somesh-11/AWS-Static-Website-Deployment-using-VPC-EC2-Auto-Scaling-Group
 
 ## Currently Learning
 
